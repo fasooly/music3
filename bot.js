@@ -15,7 +15,7 @@ client.on('ready', () => {
     console.log(`in ${client.guilds.size} servers `)
     console.log(`[.] ${client.users.size}`)
 client.user.setStatus(`idle`);
-client.user.setGame(`1play`);
+client.user.setGame(`3play`);
 });
 //by ! - .'
 const prefix = "3"
